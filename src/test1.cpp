@@ -11,6 +11,7 @@ using namespace std;
 
 int main() {
 	cout << "Here is conflict" << endl; // prints !!!Hello World!!!
+	cerr << "!!!Test My test Hello World!!!" << endl; // prints !!!Hello World!!!
 	// test 1
 	return 0;
 }
