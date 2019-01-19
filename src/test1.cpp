@@ -10,8 +10,7 @@
 using namespace std;
 
 int main() {
-	// my change
-	cerr << "!!!Tsasas est My test Hello World!!!" << endl; // prints !!!Hello World!!!
+    cout << "Here is conflict" << endl; // prints !!!Hello World!!!
 	// test 1
 	return 0;
 }
